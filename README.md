@@ -28,6 +28,8 @@ A pivotal step in validating the bot's functionality was the utilization of the 
 OUTPUT 
 <img width="1871" height="823" alt="Image" src="https://github.com/user-attachments/assets/89f418d7-cd49-43cf-9a55-9ded1104e01f" />
 
+<img width="1017" height="771" alt="Image" src="https://github.com/user-attachments/assets/b2d4a5e5-96f6-4335-9d3d-598e3493c003" />
+
 <img width="596" height="747" alt="Image" src="https://github.com/user-attachments/assets/9a9a3cc9-1b4b-446d-96c3-551d6f832a53" />
 
 <img width="999" height="971" alt="Image" src="https://github.com/user-attachments/assets/45588d14-6c46-4157-89c1-3cc3bbc2eb48" />
